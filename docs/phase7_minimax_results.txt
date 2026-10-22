@@ -1,0 +1,40 @@
+MINIMAX | Negamax | Start W d1 | rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 | depth=1 | ref=54 | prod=54 | PASS
+MINIMAX | Negamax | Black after e4 d1 | rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1 | depth=1 | ref=7 | prod=7 | PASS
+MINIMAX | Negamax | Hanging queen d1 | rnb1kbnr/pppp1ppp/8/4p3/4P1q1/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3 | depth=1 | ref=156 | prod=156 | PASS
+MINIMAX | Negamax | Promotion race d1 | 7k/P7/8/8/8/8/8/4K3 w - - 0 1 | depth=1 | ref=895 | prod=895 | PASS
+MINIMAX | Negamax | In check d1 | 4k3/8/8/8/8/8/4r3/4K3 w - - 0 1 | depth=1 | ref=20 | prod=20 | PASS
+MINIMAX | Negamax | Rook ending d2 | 8/8/8/8/8/k7/1R6/K7 w - - 0 1 | depth=2 | ref=567 | prod=567 | PASS
+MINIMAX | Negamax | KPK White d2 | 8/8/8/8/8/2k5/4P3/4K3 w - - 0 1 | depth=2 | ref=88 | prod=88 | PASS
+MINIMAX | Negamax | KPK Black d2 | 8/8/8/8/8/8/4P1k1/4K3 b - - 0 1 | depth=2 | ref=120 | prod=120 | PASS
+MINIMAX | Negamax | Bishop balance d2 | 4k3/8/8/3b4/8/4B3/8/4K3 w - - 0 1 | depth=2 | ref=-2 | prod=-2 | PASS
+MINIMAX | Negamax | Rook and pawn d2 | 8/2p5/3p4/KP5r/1R3p1k/8/4P1P1/8 w - - 0 1 | depth=2 | ref=72 | prod=72 | PASS
+MINIMAX | Negamax | Kiwipete d3 | r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq - 0 1 | depth=3 | ref=513 | prod=513 | PASS
+MINIMAX | Negamax | Unequal opening d3 | rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 | depth=3 | ref=324 | prod=324 | PASS
+MINIMAX | Negamax | Rook endgame black d3 | 8/8/8/8/8/k7/1R6/K7 b - - 0 1 | depth=3 | ref=566 | prod=566 | PASS
+MINIMAX | Negamax | Queen endgame d3 | 4k3/8/8/3Q4/8/8/8/4K3 w - - 0 1 | depth=3 | ref=965 | prod=965 | PASS
+MINIMAX | Negamax | Position 6 d3 | r4rk1/1pp1qppp/p1np1n2/2b1p1B1/2B1P1b1/P1NP1N2/1PP1QPPP/R4RK1 w - - 0 10 | depth=3 | ref=263 | prod=263 | PASS
+MINIMAX | Negamax | Forced check response d4 | k7/8/8/8/8/8/1q6/K7 w - - 0 1 | depth=3 | ref=0 | prod=0 | PASS
+MINIMAX | Negamax | Pawn ending d4 | 8/8/8/3k4/8/8/4P3/4K3 w - - 0 1 | depth=3 | ref=59 | prod=59 | PASS
+MINIMAX | Negamax | Rook ladder d4 | 7k/8/8/8/8/8/8/RR5K w - - 0 1 | depth=3 | ref=1115 | prod=1115 | PASS
+MINIMAX | Negamax | Middlegame d4 | r1bq1rk1/ppp2ppp/2n2n2/2bpp3/2BPP3/2P2N2/PP3PPP/RNBQ1RK1 w - - 0 8 | depth=3 | ref=286 | prod=286 | PASS
+MINIMAX | Negamax | KPK Black d4 | 8/8/8/8/8/2k5/4P3/4K3 b - - 0 1 | depth=3 | ref=40 | prod=40 | PASS
+MINIMAX | AlphaBeta | Start W d1 | rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 | depth=1 | ref=54 | prod=54 | PASS
+MINIMAX | AlphaBeta | Black after e4 d1 | rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1 | depth=1 | ref=7 | prod=7 | PASS
+MINIMAX | AlphaBeta | Hanging queen d1 | rnb1kbnr/pppp1ppp/8/4p3/4P1q1/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3 | depth=1 | ref=156 | prod=156 | PASS
+MINIMAX | AlphaBeta | Promotion race d1 | 7k/P7/8/8/8/8/8/4K3 w - - 0 1 | depth=1 | ref=895 | prod=895 | PASS
+MINIMAX | AlphaBeta | In check d1 | 4k3/8/8/8/8/8/4r3/4K3 w - - 0 1 | depth=1 | ref=20 | prod=20 | PASS
+MINIMAX | AlphaBeta | Rook ending d2 | 8/8/8/8/8/k7/1R6/K7 w - - 0 1 | depth=2 | ref=567 | prod=567 | PASS
+MINIMAX | AlphaBeta | KPK White d2 | 8/8/8/8/8/2k5/4P3/4K3 w - - 0 1 | depth=2 | ref=88 | prod=88 | PASS
+MINIMAX | AlphaBeta | KPK Black d2 | 8/8/8/8/8/8/4P1k1/4K3 b - - 0 1 | depth=2 | ref=120 | prod=120 | PASS
+MINIMAX | AlphaBeta | Bishop balance d2 | 4k3/8/8/3b4/8/4B3/8/4K3 w - - 0 1 | depth=2 | ref=-2 | prod=-2 | PASS
+MINIMAX | AlphaBeta | Rook and pawn d2 | 8/2p5/3p4/KP5r/1R3p1k/8/4P1P1/8 w - - 0 1 | depth=2 | ref=72 | prod=72 | PASS
+MINIMAX | AlphaBeta | Kiwipete d3 | r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq - 0 1 | depth=3 | ref=513 | prod=513 | PASS
+MINIMAX | AlphaBeta | Unequal opening d3 | rnbqkb1r/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 | depth=3 | ref=324 | prod=324 | PASS
+MINIMAX | AlphaBeta | Rook endgame black d3 | 8/8/8/8/8/k7/1R6/K7 b - - 0 1 | depth=3 | ref=566 | prod=566 | PASS
+MINIMAX | AlphaBeta | Queen endgame d3 | 4k3/8/8/3Q4/8/8/8/4K3 w - - 0 1 | depth=3 | ref=965 | prod=965 | PASS
+MINIMAX | AlphaBeta | Position 6 d3 | r4rk1/1pp1qppp/p1np1n2/2b1p1B1/2B1P1b1/P1NP1N2/1PP1QPPP/R4RK1 w - - 0 10 | depth=3 | ref=263 | prod=263 | PASS
+MINIMAX | AlphaBeta | Forced check response d4 | k7/8/8/8/8/8/1q6/K7 w - - 0 1 | depth=4 | ref=0 | prod=0 | PASS
+MINIMAX | AlphaBeta | Pawn ending d4 | 8/8/8/3k4/8/8/4P3/4K3 w - - 0 1 | depth=4 | ref=79 | prod=79 | PASS
+MINIMAX | AlphaBeta | Rook ladder d4 | 7k/8/8/8/8/8/8/RR5K w - - 0 1 | depth=4 | ref=29997 | prod=29997 | PASS
+MINIMAX | AlphaBeta | Middlegame d4 | r1bq1rk1/ppp2ppp/2n2n2/2bpp3/2BPP3/2P2N2/PP3PPP/RNBQ1RK1 w - - 0 8 | depth=4 | ref=19 | prod=19 | PASS
+MINIMAX | AlphaBeta | KPK Black d4 | 8/8/8/8/8/2k5/4P3/4K3 b - - 0 1 | depth=4 | ref=59 | prod=59 | PASS

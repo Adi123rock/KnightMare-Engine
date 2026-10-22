@@ -1,3 +1,59 @@
 *.exe
 *.o
+wasm/.build-tmp/
 err.txt
+
+# Additional native compiler outputs
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.a
+*.so
+*.dylib
+
+# Generated WebAssembly outputs. Keep the runtime module needed by a fresh
+# website checkout eligible for Git; build_wasm.ps1 regenerates it from C++.
+*.wasm
+!knightmare-web/public/engine/knightmare.wasm
+*.wasm.map
+
+# Web dependencies and build outputs
+knightmare-web/node_modules/
+knightmare-web/dist/
+knightmare-web/dist-ssr/
+knightmare-web/.vite/
+
+# Build systems and compiler databases
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+cmake-build-*/
+
+# Caches, temporary files, and logs
+.cache/
+**/.cache/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.tmp
+*.temp
+*.bak
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.tsbuildinfo
+*.local
+
+# Common operating-system/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/

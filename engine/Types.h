@@ -51,6 +51,12 @@ inline bool isWhite(char p){
     return p!=tolower(p);
 }
 
+inline Colour colourOf(char piece)
+{
+    if (isWhite(piece)) return Colour::white;
+    return Colour::black;
+}
+
 inline bool isEmpty(char p){
     return p == EMPTY;//defined above
 }

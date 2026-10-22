@@ -1,0 +1,27 @@
+:root {
+  font-family: 'Aptos', 'Segoe UI', sans-serif;
+  color: #26352d;
+  background: #f6f7f2;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+  --forest: #334e40;
+  --cream: #f3f2e9;
+  --ink: #26352d;
+  --line: #e4e8e1;
+  --sans: 'Aptos', 'Segoe UI', sans-serif;
+  --serif: 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Georgia, serif;
+  font-weight: 400;
+}
+
+* { box-sizing: border-box; }
+
+html { min-width: 320px; min-height: 100%; background: #f6f7f2; }
+
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+
+button { font: inherit; }
+
+::selection { color: #fff; background: #698271; }
